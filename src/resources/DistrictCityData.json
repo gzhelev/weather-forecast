@@ -1,0 +1,31 @@
+{
+    "towns" : [
+    {"townName" : "Blagoevgrad", "titleToDisplay": "Благоевград", "lat": "23.20834091128785", "long": "41.803773415870922"},
+    {"townName" : "Burgas", "titleToDisplay": "Бургас", "lat": "27.466473050252795", "long": "42.50908754123352"},
+    {"townName" : "Dobrich", "titleToDisplay": "Добрич", "lat": "27.847129868094648", "long": "43.56517159180505"},
+    {"townName" : "Gabrovo", "titleToDisplay": "Габрово", "lat": "25.31034173105263", "long": "42.88647945515381"},
+    {"townName" : "Haskovo", "titleToDisplay": "Хасково", "lat": "25.559184527103973", "long": "41.94232993427531"},
+    {"townName" : "Kardzhali", "titleToDisplay": "Кърджали", "lat": "25.364991505275317", "long": "41.6309433658777"},
+    {"townName" : "Kyustendil", "titleToDisplay": "Кюстендил", "lat": "22.609738738021826", "long": "42.203662680041564"},
+    {"townName" : "Lovech", "titleToDisplay": "Ловеч", "lat": "24.71632109433152", "long": "43.148813984743214"},
+    {"townName" : "Montana", "titleToDisplay": "Монтана", "lat": "23.224325439667833", "long": "43.62117935046219"},
+    {"townName" : "Pazardzhik", "titleToDisplay": "Пазарджик", "lat": "24.042167385267253", "long": "42.301340591730954"},
+    {"townName" : "Pernik", "titleToDisplay": "Перник", "lat": "23.030319812745617", "long": "42.50082430194184"},
+    {"townName" : "Pleven", "titleToDisplay": "Плевен", "lat": "24.60084155449687", "long": "43.42453426464157"},
+    {"townName" : "Plovdiv", "titleToDisplay": "Пловдив", "lat": "24.74403618389184", "long": "42.10314256039305"},
+    {"townName" : "Razgrad", "titleToDisplay": "Разград", "lat": "26.550136186905778", "long": "43.525095233053555"},
+    {"townName" : "Ruse", "titleToDisplay": "Русе", "lat": "25.963500124545753", "long": "43.84243407257957"},
+    {"townName" : "Shumen", "titleToDisplay": "Шумен", "lat": "26.93490997522423", "long": "43.26992617172687"},
+    {"townName" : "Silistra", "titleToDisplay": "Силистра", "lat": "27.242527137739508", "long": "44.023794619909845"},
+    {"townName" : "Sliven", "titleToDisplay": "Сливен", "lat": "26.319675650193666", "long": "42.695275356610566"},
+    {"townName" : "Smolyan", "titleToDisplay": "Смолян", "lat": "24.50468554698845", "long": "41.55455091261609"},
+    {"townName" : "Sofia", "titleToDisplay": "София", "lat": "23.320408315669688", "long": "42.70738611607575"},
+    {"townName" : "Stara Zagora", "titleToDisplay": "Стара Загора", "lat": "25.42753703453429", "long": "42.43634987851874"},
+    {"townName" : "Targovishte", "titleToDisplay": "Търговище", "lat": "26.45236117654551", "long": "43.077925733100926"},
+    {"townName" : "Tarnovo", "titleToDisplay": "Велико Търново", "lat": "25.60556438006891", "long": "43.29769386788867"},
+    {"townName" : "Varna", "titleToDisplay": "Варна", "lat": "27.929172589782542", "long": "43.24592292892831"},
+    {"townName" : "Vidin", "titleToDisplay": "Видин", "lat": "22.86447573551311", "long": "43.9974775440898"},
+    {"townName" : "Vratsa", "titleToDisplay": "Враца", "lat": "23.551121187556145", "long": "43.20589649796287"},
+    {"townName" : "Yambol", "titleToDisplay": "Ямбол", "lat": "26.51742954038206", "long": "42.384980260004036"}
+    ]
+}
