@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The app displays weather forecast for Bulgaria.
 A slider is implemented below the map that enables the user to see the forecast for 7 days ahead.
 When a city is clicked on the map a dialog with detailed weather information is opened below the map. It stays open until the user closes it so when the slider is changed, the detailed information is also updated.
-The map is rendered with a react component that maps D3 geo functions. More information below.
+The map is rendered with a React component that wraps D3 geo functions. More information below.
 
 To start the app
 - check out or download the repository
@@ -14,7 +14,7 @@ To start the app
 ## Map component and render choice
 The Map component in the app uses https://www.react-simple-maps.io/. 
 The Map render component aims to be as much reusable as possible. It uses Geo data which can be downloaded from here: https://gadm.org/. The data is then parsed here https://mapshaper.org/ which generates a GeoJSON with coordinates for all the requested areas ( countries / districts etc). This way the application depends on actual Geo data ( latitude | longitude ) and not hardcoded coordinates on an image tag.
-The Map component also uses another helper JSON for the district cities, which provides the localiszation for the city name and geo coordinates. With this data the labels for the cities are displayed.
+The Map component also uses another helper JSON for the district cities, which provides the localization for the city name and geo coordinates. With this data the labels for the cities are displayed.
 
 Future Improvements:
 - The background of the map can also be changed - for example with a PNG image of the heighmap for the country. This would require the image to be in the same scale as the map.
@@ -24,5 +24,5 @@ Future Improvements:
 ## Weather API choice
 The weather API used in the application is https://www.worldweatheronline.com/.
 This is the only API thah has free bulk execution for all district cities needed. Using this API forecast for all cities is requested in one API call which simplifies the application and reduces network cost.
-The images displayed on the map are returned from the weaterAPI ( there are 90+ different images based on the weather). There were no free images with transparent background.
+The images displayed on the map are returned from the weatherAPI ( there are 90+ different images based on the weather). There were no free images with transparent background.
 
