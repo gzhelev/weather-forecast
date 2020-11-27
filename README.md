@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## General Information
-The app displays weather forecast for Bulgarina.
+The app displays weather forecast for Bulgaria.
 A slider is implemented below the map that enables the user to see the forecast for 7 days ahead.
 When a city is clicked on the map a dialog with detailed weather information is opened below the map. It stays open until the user closes it so when the slider is changed, the detailed information is also updated.
 The map is rendered with a react component that maps D3 geo functions. More information below.
